@@ -7,13 +7,13 @@ h1 {
     color: orangered;
 }
 
-.directory {
+/* .directory {
     position: fixed;
     background-color: black;
     padding: 6px;
-    /* border: solid black bottom; */
+    /* border: solid 6px black bottom; */
 }
 
 .button {
     background-color: whitesmoke;
-}
+} */
