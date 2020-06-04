@@ -1,0 +1,19 @@
+* {
+    font-family: impact;
+    background-color: mediumaquamarine;
+}
+
+h1 {
+    color: orangered;
+}
+
+.directory {
+    position: fixed;
+    background-color: black;
+    padding: 6px;
+    /* border: solid black bottom; */
+}
+
+.button {
+    background-color: whitesmoke;
+}
